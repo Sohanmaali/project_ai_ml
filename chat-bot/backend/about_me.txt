@@ -1,0 +1,115 @@
+
+Home Page Technology
+React, Next.js, TypeScript, Node.js, Tailwind, .Net, Python.
+
+Status
+Experience: 2+ years of development experience.
+Projects: Completed over 8 projects.
+Happy Clients: Served more than 10 satisfied clients.
+Awards Won: Recognized with 3 awards.
+
+Social Links
+LinkedIn, Instagram, GitHub, Twitter.
+
+Technologies – Frontend
+Proficient in building modern, fast, and scalable front-end applications using React, Next.js, TypeScript, Nest.js, JavaScript, Tailwind CSS, and Redux.
+
+Technologies – Backend
+Experienced in building robust server-side applications using Node.js, Express, Dot Net (C#), MongoDB, SQL, Redis, PostgreSQL, Firebase, REST APIs, Socket.io, and Stripe integration.
+
+Tools
+Skilled in Git & GitHub, Docker, AWS, CI/CD pipelines, Figma, Jira, Webpack, and Linux.
+
+Skills
+React: Expertise in creating dynamic and interactive UI using React and Next.js.
+TypeScript: Strong understanding of type safety, interfaces, and modern TS patterns.
+Node.js: Skilled in building scalable backend systems and REST APIs.
+MongoDB: Experienced in schema design, indexing, aggregation, and database optimization.
+Docker: Proficient in containerization, Docker Compose, and deployment workflows.
+
+Projects
+
+CarMucho
+Developed a car booking platform with advanced search, filters, and geolocation availability. Implemented real-time chat with typing indicators and read receipts using Socket.io. Added real-time notifications for bookings and messages. Designed an admin dashboard to manage cars, bookings, and customers.
+
+Scrapify
+Built a full-stack MERN application for managing scrap sales. Implemented authentication, role-based access, dashboards for admin and sellers, secure payments, optimized APIs, and real-time notifications.
+
+Portfolio Website
+Created a personal portfolio with modern UI, MDX blog, dark mode support, chatbot integration, and responsive performance-first design.
+
+GitHub Profile Finder
+Built a lightweight tool to fetch and display GitHub user profiles, including repositories, followers, and engagement statistics.
+
+Weather App
+Designed a weather application that shows real-time weather data, wind speed, air pressure, visibility, sunrise/sunset, and a 3-day forecast using location-based search.
+
+Chat App
+Developed a mobile-first chat app for discovering and saving recipes with ingredient filters and dietary preference support.
+
+Shop Management System
+Created a management dashboard for shops using Next.js and SQL Server. Included user authentication, role-based access, product listings, order transactions, and real-time features.
+
+Education
+MCA (2023–2025) – RGPV Bhopal, CGPA: 8.5. Specialized in Advanced Web Technologies and Cloud Computing.
+BCA (2020–2023) – Barkatullah University, CGPA: 7.8. Built multiple academic projects including a Library Management System.
+12th (2019–2020) – Govt High School Khategaon, 75%.
+10th (2017–2018) – Gaytri Vidya Mandir, 75%.
+
+Experience
+
+Dot Net Developer – Liyansh Solution
+Worked with Orchard CMS, Razor Pages, Web API, Entity Framework, SQL Server, C#, and contributed to team code reviews.
+
+MERN Stack Developer – FODUU
+Built modern web applications using React, Next.js, and TypeScript. Implemented Redux Toolkit, optimized performance, collaborated with backend teams, and integrated REST APIs.
+
+Full Stack Trainee – InfoBeans Foundation
+Gained hands-on experience with HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. Developed full-stack applications and participated in team-based projects.
+
+Services
+
+Web Development
+Building high-performance, SEO-friendly web applications using React, Next.js, and TypeScript.
+
+Backend Development
+Developing secure, scalable backend services with Node.js, Express, NestJS, GraphQL, and WebSockets.
+
+Mobile Development
+Creating cross-platform apps with React Native, offering offline support, push notifications, and smooth UX.
+
+Database Design & Optimization
+Designing and optimizing databases for speed, reliability, and scalability.
+
+Full-Stack Solutions
+Providing end-to-end architecture, development, integration, and deployment.
+
+DevOps & Cloud Services
+Implementing CI/CD, Docker, Kubernetes, AWS, and automated deployments.
+
+Security & Performance
+Conducting audits, vulnerability assessments, and optimizing applications for peak performance.
+
+Code Review & Mentoring
+Helping developers improve code quality, documentation, and architecture.
+
+UI/UX Design
+Crafting intuitive and modern interfaces using Figma, Adobe XD, and user research insights.
+
+API Development & Integration
+Building and integrating robust REST and GraphQL APIs with secure authentication.
+
+Process
+Discovery → Strategy → Design & Build → Testing → Launch & Support.
+
+Why Choose Me
+Lightning-fast performance, built-in security practices, and reliable long-term support with a 99.9% uptime guarantee.
+
+Resources
+Books, tools, tutorials, videos, and courses to support developer growth and continuous learning.
+
+Repositories
+Includes full-stack apps, interview preparation materials, community help platforms, chat apps, and more.
+
+Quotes
+Includes motivational and programming-focused quotes for inspiration.
